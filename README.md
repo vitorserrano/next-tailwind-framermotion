@@ -29,6 +29,7 @@ Durante o workshop a Guilherme explica muito bem como utilizar o TailwindCSS den
 - [Next.js](https://nextjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## ✅ Resultado
 
